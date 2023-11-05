@@ -1,0 +1,16 @@
+.perfectBeauty {
+    display: flex;
+    margin: 130px 0;
+    gap: 32px;
+    align-items: center;
+}
+.perfectBeauty img {
+    width: 100%;
+}
+.perfectContent .btn {
+  margin-top: 50px;
+}
+
+.perfectContent p {
+    margin-top: 10px;
+}
