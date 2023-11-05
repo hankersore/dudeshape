@@ -1,0 +1,33 @@
+.popular-product {
+  /* height: 1050px; */
+  margin-bottom: 90px;
+}
+
+.popular-product__subtitle {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.popular-product__subtitle a {
+  align-self: flex-start;
+  display: flex;
+  align-items:center;
+  color: #222;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: underline;
+  line-height: 30px;
+}
+
+.popular-product__subtitle .title p {
+  width: 714px;
+}
+
+.popular-product__cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
