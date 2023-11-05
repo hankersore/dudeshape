@@ -1,0 +1,48 @@
+footer {
+    background: #FAFAFA;  
+}
+.news {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 108px;
+    padding-bottom: 64px;
+    border-bottom: 1px solid #DDD;
+}
+.search {
+    border: none;
+    padding: 18px;
+    width: 386px;
+}
+
+form {
+    position: relative;
+}
+
+form .btn {
+   width: 103px; 
+   font-size: 14px;
+   padding: 10px 20px;
+   position: absolute;
+   top: 8px;
+   right: 8px;
+}
+.links {
+    padding-top: 59px;
+    padding-bottom: 24px;
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+}
+.links ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    gap: 38px;
+    width: 326px;
+}
