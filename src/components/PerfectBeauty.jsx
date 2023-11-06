@@ -1,7 +1,7 @@
 import './PerfectBeauty.css';
 import Title from './Title';
 import Button from './Button';
-import perfect from '../assets/PerfectBeauty.png'
+import perfect from '../assets/perfectBeauty.png'
 import Container from './Container';
 
 export default function PerfectBeauty () {
