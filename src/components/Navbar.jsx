@@ -14,9 +14,9 @@ export default function Navbar () {
                         <li><a href="#">Contact Us</a></li>
                     </ul>
                     <div className='icons'>
-                    <i class="fa-solid fa-user"></i>
-                    <i class="fa-solid fa-cart-shopping"></i>
-                    <i class="fa-solid fa-bars"></i>
+                    <i className="fa-solid fa-user"></i>
+                    <i className="fa-solid fa-cart-shopping"></i>
+                    <i className="fa-solid fa-bars"></i>
                     </div>
                 </nav>
             </Container>
