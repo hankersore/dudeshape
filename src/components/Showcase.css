@@ -1,0 +1,42 @@
+.showcase {
+    display: flex;
+}
+.showcase img {
+    width: 100%;
+}
+.showcaseText {
+    background-color: #F9F6F5;
+    padding: 100px 0;
+}
+.showcaseText .container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.showcaseText h1 {
+    padding-bottom: 30px;
+}
+.search2 {
+    border: none;
+    padding: 14px;
+    width: 326px;
+}
+
+.form {
+    position: relative;
+    margin-bottom: 60px;
+}
+
+.form .btn {
+   width: 32px; 
+   font-size: 14px;
+   padding: 8px;
+   position: absolute;
+   top: 5px;
+   left: 288px;
+}
+
+.showcaseText .btn {
+    width: max-content;
+}
+
